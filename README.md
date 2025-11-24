@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- Animated Particle Background -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+</picture>
+
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABDESSAMAD%20GUIADIRI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Creative%20Coder%20%7C%20Digital%20Artist&descSize=16&descAlignY=51"/>
 
@@ -23,6 +29,9 @@
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Floating Particles Background -->
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce3-bfbd-18239a38ba1b.gif" width="100%" style="opacity: 0.15; position: absolute;" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> ABOUT ME
 
@@ -84,8 +93,8 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 <br>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Animated Dots Network -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQzNnBkNWp5bWdwdGI1dWN5cHRjYzE0dHRxMGl5NHJxdGJnNDRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> CONNECT WITH ME
 
@@ -98,8 +107,8 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Animated Wave Particles -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> TECH ARSENAL
 
@@ -159,8 +168,8 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Animated Network Flow -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px" alt="Git"> GITHUB ACHIEVEMENTS
 
@@ -171,8 +180,8 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Animated Data Stream -->
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"/> TOP CONTRIBUTED REPOSITORIES
 
@@ -210,6 +219,9 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<!-- Particle Wave Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" style="opacity: 0.2;" />
 
 <div align="center">
 

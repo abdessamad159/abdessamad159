@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Gradient for particles -->
+    <radialGradient id="particleGradient">
+      <stop offset="0%" style="stop-color:#00F7F4;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00F7F4;stop-opacity:0" />
+    </radialGradient>
+    
+    <!-- Gradient for lines -->
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00F7F4;stop-opacity:0.2" />
+      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#00F7F4;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="600" fill="transparent"/>
+  
+  <!-- Animated Particles -->
+  <g id="particles" opacity="0.3">
+    <!-- Particle 1 -->
+    <circle cx="100" cy="100" r="3" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="100;900;100" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;400;100" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 2 -->
+    <circle cx="300" cy="200" r="2.5" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="300;800;300" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;500;200" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 3 -->
+    <circle cx="500" cy="150" r="3.5" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="500;200;500" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="150;450;150" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 4 -->
+    <circle cx="700" cy="300" r="2" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="700;400;700" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="300;100;300" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 5 -->
+    <circle cx="900" cy="250" r="3" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="900;300;900" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="250;500;250" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 6 -->
+    <circle cx="200" cy="400" r="2.5" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="200;1000;200" dur="26s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="400;200;400" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 7 -->
+    <circle cx="600" cy="450" r="3.5" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="600;150;600" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="450;150;450" dur="23s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Particle 8 -->
+    <circle cx="800" cy="500" r="2" fill="url(#particleGradient)">
+      <animate attributeName="cx" values="800;500;800" dur="27s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="500;300;500" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Connecting Lines -->
+  <g id="connections" opacity="0.15">
+    <line x1="100" y1="100" x2="300" y2="200" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="100;900;100" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="100;400;100" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="300;800;300" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="200;500;200" dur="18s" repeatCount="indefinite"/>
+    </line>
+    
+    <line x1="300" y1="200" x2="500" y2="150" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="300;800;300" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="200;500;200" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="500;200;500" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="150;450;150" dur="16s" repeatCount="indefinite"/>
+    </line>
+    
+    <line x1="500" y1="150" x2="700" y2="300" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="500;200;500" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="150;450;150" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="700;400;700" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="300;100;300" dur="20s" repeatCount="indefinite"/>
+    </line>
+    
+    <line x1="700" y1="300" x2="900" y2="250" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="700;400;700" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="300;100;300" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="900;300;900" dur="24s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="250;500;250" dur="17s" repeatCount="indefinite"/>
+    </line>
+    
+    <line x1="200" y1="400" x2="600" y2="450" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="200;1000;200" dur="26s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="400;200;400" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="600;150;600" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="450;150;450" dur="23s" repeatCount="indefinite"/>
+    </line>
+    
+    <line x1="600" y1="450" x2="800" y2="500" stroke="url(#lineGradient)" stroke-width="1">
+      <animate attributeName="x1" values="600;150;600" dur="21s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="450;150;450" dur="23s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="800;500;800" dur="27s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="500;300;500" dur="21s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>

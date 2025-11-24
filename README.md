@@ -30,8 +30,6 @@
 <!-- Animated Network Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
 
-<!-- Floating Particles Background -->
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" style="opacity: 0.1;" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> ABOUT ME
 
@@ -93,8 +91,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 <br>
 
-<!-- Animated Dots Network -->
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
+---
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQzNnBkNWp5bWdwdGI1dWN5cHRjYzE0dHRxMGl5NHJxdGJnNDRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> CONNECT WITH ME
 
@@ -107,8 +104,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Wave Particles -->
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> TECH ARSENAL
 
@@ -180,8 +176,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Data Stream -->
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"/> TOP CONTRIBUTED REPOSITORIES
 
@@ -191,8 +186,6 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Matrix Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"/> DEVELOPER WISDOM
 
@@ -202,8 +195,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Cyber Grid -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"/> CONTRIBUTION SNAKE
 
@@ -217,11 +209,6 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 </div>
 
-<!-- Animated Tech Lines -->
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
-
-<!-- Particle Wave Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="100%" style="opacity: 0.15;" />
 
 <div align="center">
 
@@ -233,7 +220,6 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br>
 

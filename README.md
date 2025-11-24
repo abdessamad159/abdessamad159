@@ -5,18 +5,18 @@
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%3C%2F%3E+Crafting+Digital+Magic;%F0%9F%8E%A8+Where+Code+Meets+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=%3C%2F%3E+Crafting+Digital+Magic;%E2%9A%A1+Where+Code+Meets+Art" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Badges with Animation -->
+<!-- Advanced Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=abdessamad159&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/abdessamad159?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00D9FF?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Lives-Morocco%20🇲🇦-1f425f?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/Lives-Morocco-1f425f?style=for-the-badge" alt="location" />
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> ABOUT ME
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -33,7 +33,7 @@ class Developer {
   constructor() {
     this.name = "Abdessamad Guiadiri";
     this.role = "Frontend Developer";
-    this.location = "Morocco 🇲🇦";
+    this.location = "Morocco";
     this.workingOn = "Innovative Web Experiences";
     this.learning = ["Advanced Animations", "3D Web Graphics"];
     this.hobbies = ["Coding", "Design", "Problem Solving"];
@@ -50,27 +50,27 @@ me.sayHi();
 
 <br>
 
-🎯 I am a **Frontend Developer** specializing in creating **innovative and interactive web experiences**. My expertise lies at the intersection of **creative design** and **advanced programming**, where I transform complex ideas into seamless, user-friendly applications.
+I am a **Frontend Developer** specializing in creating **innovative and interactive web experiences**. My expertise lies at the intersection of **creative design** and **advanced programming**, where I transform complex ideas into seamless, user-friendly applications.
 
 <br>
 
-### 🌟 What Drives Me
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> CORE PRINCIPLES
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" /><br>
-      <b>Performance</b><br>
+      <b>PERFORMANCE</b><br>
       <sub>Optimized & Lightning Fast</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80" /><br>
-      <b>Visual Excellence</b><br>
+      <b>VISUAL EXCELLENCE</b><br>
       <sub>Intuitive & Engaging UI</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80" /><br>
-      <b>Clean Code</b><br>
+      <b>CLEAN CODE</b><br>
       <sub>Maintainable & Scalable</sub>
     </td>
   </tr>
@@ -80,14 +80,14 @@ me.sayHi();
 
 My technical toolkit includes **Vite** for fast development workflows, **TypeScript** for robust code, **Tailwind CSS** for elegant styling, and **React** for dynamic interfaces. I also excel with **Node.js**, **Custom CSS**, and **Canvas API** for advanced animations and interactive graphics.
 
-Whether working on **gaming platforms**, **interactive web applications**, or **e-commerce solutions**, I focus on delivering products that exceed expectations. I'm always excited to collaborate on innovative projects and bring creative ideas to life! 🚀
+Whether working on **gaming platforms**, **interactive web applications**, or **e-commerce solutions**, I focus on delivering products that exceed expectations. I'm always excited to collaborate on innovative projects and bring creative ideas to life!
 
 <br>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQzNnBkNWp5bWdwdGI1dWN5cHRjYzE0dHRxMGl5NHJxdGJnNDRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"> Connect With Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQzNnBkNWp5bWdwdGI1dWN5cHRjYzE0dHRxMGl5NHJxdGJnNDRkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> CONNECT WITH ME
 
 <div align="center">
 
@@ -101,11 +101,11 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> TECH ARSENAL
 
 <div align="center">
 
-### 🎨 Frontend Development
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24"/> Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -114,18 +114,18 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🎯 Styling & Design
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="24"/> Styling & Design
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend & Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="24"/> Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🛠️ Development Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="24"/> Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -134,7 +134,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📚 Libraries & Frameworks
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="24"/> Libraries & Frameworks
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
@@ -143,7 +143,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GITHUB ANALYTICS
 
 <div align="center">
   
@@ -162,7 +162,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" height="28px" alt="Git"> GitHub Achievements
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" height="32px" alt="Git"> GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🔝 Top Contributed Repositories
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32"/> TOP CONTRIBUTED REPOSITORIES
 
 <div align="center">
 
@@ -185,7 +185,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 💭 Developer Wisdom
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"/> DEVELOPER WISDOM
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🐍 Contribution Snake
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"/> CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -213,19 +213,23 @@ Whether working on **gaming platforms**, **interactive web applications**, or **
 
 <div align="center">
 
-## 💼 Let's Collaborate!
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-
-### **"Code is like humor. When you have to explain it, it's bad!"** 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### 🌟 Open for exciting projects and collaborations!
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32" /> LET'S COLLABORATE
 
 <br>
 
-**⭐ From [abdessamad159](https://github.com/abdessamad159) | Built with 💙 and ☕**
+### **"Code is like humor. When you have to explain it, it's bad!"** 
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="24"/> Open for exciting projects and collaborations
+
+<br>
+
+**From [abdessamad159](https://github.com/abdessamad159) | Built with passion and coffee**
 
 </div>
 
